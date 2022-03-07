@@ -1,5 +1,5 @@
     import base64
-    
+
     def main():
     data = 'data to be encoded'
     encoded = data.encode("utf-8")
@@ -36,7 +36,8 @@ cont path = require("path");
   
   remain const: 
 
-int, x=linespace(0, 6p) where as y=openspace
+int, x=linespace(0, 
+p) where as y=openspace
   find self X_ = angle/ none
 
   win = curses.newwin(20, 60, 0, 0)
